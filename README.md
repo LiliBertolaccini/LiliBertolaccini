@@ -90,7 +90,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LiliBertolaccini&theme=dark" alt="GitHub Streak Stats" width="230" style="margin-right: 20px;" />
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LiliBertolaccini&theme=dark" alt="GitHub Stats" width="270" style="margin-right: 20px;" />
 </div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LiliBertolaccini&theme=dracula" alt="GitHub Profile Summary Cards" width="300" style="margin-right: 20px;" />
 
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LiliBertolaccini&theme=dracula" alt="GitHub Profile Summary Cards" width="374" style="margin-right: 25px;" />
+</p>
 
 
