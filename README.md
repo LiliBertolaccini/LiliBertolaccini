@@ -85,11 +85,12 @@
 <h2 align="left">Stats</h2>
 
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiliBertolaccini&theme=dark" alt="Most Used Languages" width="300" style="margin-right: 10px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LiliBertolaccini&theme=dark" alt="GitHub Streak Stats" width="300" style="margin-right: 10px;" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LiliBertolaccini&theme=dark" alt="GitHub Stats" width="250" style="margin-right: 10px;" />
+  <div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiliBertolaccini&theme=dark" alt="Most Used Languages" width="300" style="margin-right: 20px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LiliBertolaccini&theme=dark" alt="GitHub Streak Stats" width="300" style="margin-right: 20px;" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LiliBertolaccini&theme=dark" alt="GitHub Stats" width="250" style="margin-right: 20px;" />
 </div>
+
 
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LiliBertolaccini&theme=dracula" alt="GitHub Profile Summary Cards" />
