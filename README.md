@@ -92,8 +92,8 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiliBertolaccini&theme=dark" alt="Most Used Languages" width="300" style="margin-right: 20px;" />
       </td>
       <td style="center: top;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=LiliBertolaccini&theme=dark" alt="GitHub Streak Stats" width="350" style="margin-right: 20px;" />
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LiliBertolaccini&theme=dark" alt="GitHub Stats" width="350" style="margin-right: 20px;" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=LiliBertolaccini&theme=dark" alt="GitHub Streak Stats" width="150" style="margin-right: 10px;" />
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LiliBertolaccini&theme=dark" alt="GitHub Stats" width="150" style="margin-right: 10px;" />
       </td>
     </tr>
   </table>
