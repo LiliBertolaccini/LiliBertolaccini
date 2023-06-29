@@ -91,19 +91,14 @@
       <td style="vertical-align: top;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiliBertolaccini&theme=dark" alt="Most Used Languages" width="300" style="margin-right: 20px;" />
       </td>
-    </tr>
-    <tr>
-      <td style="vertical-align: top;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=LiliBertolaccini&theme=dark" alt="GitHub Streak Stats" width="300" style="margin-right: 20px;" />
-      </td>
-    </tr>
-    <tr>
-      <td style="vertical-align: top;">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LiliBertolaccini&theme=dark" alt="GitHub Stats" width="250" style="margin-right: 20px;" />
+      <td style="center: top;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=LiliBertolaccini&theme=dark" alt="GitHub Streak Stats" width="350" style="margin-right: 20px;" />
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LiliBertolaccini&theme=dark" alt="GitHub Stats" width="350" style="margin-right: 20px;" />
       </td>
     </tr>
   </table>
 </div>
+
 
 
 
