@@ -94,6 +94,7 @@
       <td style="center: top;">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=LiliBertolaccini&theme=dark" alt="GitHub Streak Stats" width="150" style="margin-right: 10px;" />
         <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LiliBertolaccini&theme=dark" alt="GitHub Stats" width="150" style="margin-right: 10px;" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LiliBertolaccini&theme=dracula" alt="GitHub Profile Summary Cards" width="150" style="margin-right: 10px;" />
       </td>
     </tr>
   </table>
@@ -101,8 +102,3 @@
 
 
 
-
-
-
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LiliBertolaccini&theme=dracula" alt="GitHub Profile Summary Cards" />
