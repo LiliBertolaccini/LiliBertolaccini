@@ -19,7 +19,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -63,17 +63,11 @@
 ###
 
 <div align="left">
-  <a href="https://github.com/LiliBertolaccini" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
-  </a>
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
   <img width="45" />
-  <a href="https://www.linkedin.com/in/lilian-barros-bertolaccini-2227a2105/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
+  <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="linkedin logo"  />
   <img width="45" />
-  <a href="https://www.instagram.com/lilian_bertolaccini/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="30" alt="instagram logo"  />
-  </a>
+  <img src="https://skillicons.dev/icons?i=instagram" height="30" alt="instagram logo"  />
 </div>
 
 ###
@@ -84,15 +78,12 @@
 
 <h2 align="left">Stats</h2>
 
+###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiliBertolaccini&theme=dark" alt="Most Used Languages" width="300" style="margin-right: 35px;"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LiliBertolaccini&theme=dark" alt="GitHub Streak Stats" width="230" style="margin-right: 20px;" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LiliBertolaccini&theme=dark" alt="GitHub Stats" width="270" style="margin-right: 20px;" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LiliBertolaccini&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LiliBertolaccini&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=LiliBertolaccini&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LiliBertolaccini&theme=dracula" alt="GitHub Profile Summary Cards" width="374" style="margin-right: 25px;" />
-</p>
-
-
+###
